@@ -80,6 +80,8 @@ p {
 .dropdown {
     position: relative;
     display: inline-block;
+    margin-right: 150px;
+    margin-left: -150px;
 }
 
 .dropdown-content {
