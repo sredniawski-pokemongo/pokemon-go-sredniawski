@@ -1,5 +1,7 @@
 h1 {
     text-align: center;
+    margin-left: 145px;
+    margin-right: auto;
 }
 
 h2 {
@@ -11,8 +13,8 @@ table {
     table-layout: fixed;
     border-spacing: 0 0.01em;
     width: 40%;
-    margin-left: 27%;
-    margin-right: 25%
+    margin-left: auto;
+    margin-right: auto;
 }
 
 sub {
